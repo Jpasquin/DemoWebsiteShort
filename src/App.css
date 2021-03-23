@@ -1,0 +1,50 @@
+  .Home,
+  .GetStarted,
+  .AboutUs,
+  .Support {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -0.5rem;
+    background: #fff;
+    height: 640px;
+    width: 100vw;
+  }
+
+  .Home-Background{
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 48px 0;
+  }
+  .Home-Banner {
+      height: 512px;
+      width: 100%;
+      border-radius: 0.5rem;
+      
+  }
+
+  .Home-Banner-Text {
+    color: #222222;
+    margin-right: 30px;
+    font-size: 22px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-weight: bold;
+  }
+  
+  .Banner-Normal{
+    background: #ededed;
+    height: 512px;
+    width: 100%;
+    border-radius: 0.5rem;
+    
+  }
+
+  .GetStarted-Background{
+    background: #999999;
+    width: 100%;
+    padding: 48px 0;
+  }
